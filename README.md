@@ -133,7 +133,7 @@ Visual analysis of sentiment results built using Power BI Desktop.
 - Reviews Table
 
 ### Dashboard Preview:
-![Dashboard](dashboard/dashboard_screenshot.png)
+![Dashboard](dashboard/Dashboard.png)
 
 ## Known Limitations
 - Works on English reviews only
