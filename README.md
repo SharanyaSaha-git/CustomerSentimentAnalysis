@@ -126,11 +126,10 @@ Visual analysis of sentiment results built using Power BI Desktop.
 - Average Rating
 
 ### Visuals:
-- Sentiment distribution (Donut Chart)
-- Rating vs Sentiment (Stacked Bar Chart)
-- Confidence Score Distribution
-- Sentiment by Product
-- Reviews Table
+- Overall Sentiment distribution (Donut Chart)
+- Sentiment Distribution By Product Category (Stacked Bar Chart)
+- Filter By Product
+- Filter By Sentiment
 
 ### Dashboard Preview:
 ![Dashboard](dashboard/Dashboard.png)
